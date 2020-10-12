@@ -1,5 +1,5 @@
 ![kmfbanner](https://user-images.githubusercontent.com/58104674/95757141-60145280-0cc4-11eb-814f-6624d45dc077.jpg)
-# KMF_BOT    ![Version](https://img.shields.io/badge/Version-3.5.1-green)
+# KMF_BOT ![Version](https://img.shields.io/badge/Version-3.5.1-green)
 ---
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -74,5 +74,3 @@ SOFTWARE.
 
 - Instsgram - [@un_f__amour](https://instagram.com/un_f__amour)
 - Whatsapp - [+91 9072717181](https://wa.me/message/5QY27CQDJGEUP1)
-
-[Back To The Top](#read-me-template)
